@@ -5,5 +5,5 @@ import 'Home.dart';
 void main() => runApp(MaterialApp(
       home: Home(),
       debugShowCheckedModeBanner:
-          false, //para n ficar aparecendo debug na apricação
+          false,
     ));
